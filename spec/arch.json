@@ -1,0 +1,21 @@
+[  
+   {  
+      "component":"io",
+      "should-call":["model"]
+   },
+   {  
+      "component":"gui",
+      "should-call":["io", "model", "app"]
+   },
+   {  
+      "component":"app",
+      "should-call":["model"]
+   },
+   {  
+      "component":"model",
+      "should-call":[]
+   }
+]
+
+
+

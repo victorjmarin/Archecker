@@ -1,0 +1,21 @@
+[  
+   {  
+      "component":"io",
+      "entities":["net.sf.jmoney.io"]
+   },
+   {  
+      "component":"gui",
+      "entities":["net.sf.jmoney.gui"]
+   },
+   {  
+      "component":"app",
+      "entities":["net.sf.jmoney"]
+   },
+   {  
+      "component":"model",
+      "entities":["net.sf.jmoney.model"]
+   }
+]
+
+
+
